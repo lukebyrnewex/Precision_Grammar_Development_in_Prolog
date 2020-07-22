@@ -1,4 +1,4 @@
-# Precision_Grammar_Development_in_Prolog
+# Precision Grammar Development in Prolog
 Program which verifies, using Definite Clause Grammar (DCG) notation and established grammar development in Prolog, whether a phrase is grammatical or not.
 
 ## 1) Adverbs
